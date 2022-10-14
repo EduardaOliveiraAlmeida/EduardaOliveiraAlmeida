@@ -1,5 +1,8 @@
 ## 👋 Olá eu sou Maria Eduarda Oliveira, desenvolvedora jr!
 
+<img width="700" height="250 src="https://user-images.githubusercontent.com/108241366/195879238-c392e4f4-87cf-4afc-98de-c76d56311c27.png">
+
+
 - 🙂 Ela/Dela.
 - 🏠 Moro em Paulista/PE.
 - 👩🏽 Tenho 20 anos.
