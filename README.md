@@ -1,7 +1,7 @@
 ## 👋 Olá eu sou Maria Eduarda Oliveira, desenvolvedora jr!
-
-<img width="700" height="250 src="https://user-images.githubusercontent.com/108241366/195879238-c392e4f4-87cf-4afc-98de-c76d56311c27.png">
-
+<div align="center">
+  <img width="700px" height="250px" src="https://user-images.githubusercontent.com/108241366/195879238-c392e4f4-87cf-4afc-98de-c76d56311c27.png">
+</div>
 
 - 🙂 Ela/Dela.
 - 🏠 Moro em Paulista/PE.
