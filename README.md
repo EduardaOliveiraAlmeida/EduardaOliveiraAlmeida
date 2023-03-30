@@ -1,6 +1,6 @@
 ## 👋 Olá eu sou Maria Eduarda Oliveira, desenvolvedora jr!
 <div align="center">
-  <img width="700px" height="250px" src="https://user-images.githubusercontent.com/108241366/195879238-c392e4f4-87cf-4afc-98de-c76d56311c27.png">
+  <img width="700px" height="250px" src="https://user-images.githubusercontent.com/108241366/228975758-d5d284fb-11db-43f7-8ccf-e2c98686300d.png">
 </div><br><br>
 
 - 🙂 Ela/Dela.
