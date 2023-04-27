@@ -4,7 +4,7 @@
 </div><br><br>
 
 - 🙂 Ela/Dela.
-- 🏠 Moro em Paulista/PE.
+- 🏠 Atualmente moro em Paulista/PE.
 - 👩🏽 Tenho 21 anos.
 
 ##
