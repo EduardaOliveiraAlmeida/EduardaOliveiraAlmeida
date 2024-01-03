@@ -1,10 +1,5 @@
 ## 👋 Olá eu sou Maria Eduarda Oliveira, dev backend!
 
-- 🙂 Ela/Dela.
-- 👩🏽 Tenho 21 anos.
-
-##
-
 <img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/108241366/196195211-6248b2ff-312f-47b5-914b-699ae4e86e87.png">
 
 ### Estou estudando: 
