@@ -1,10 +1,6 @@
-## 👋 Olá eu sou Maria Eduarda Oliveira, desenvolvedora jr!
-<div align="center">
-  <img width="700px" height="400px" src="https://user-images.githubusercontent.com/108241366/228977797-5f8a5a24-2243-4322-a37d-c9b8630c9f4f.png">
-</div><br><br>
+## 👋 Olá eu sou Maria Eduarda Oliveira, dev backend!
 
 - 🙂 Ela/Dela.
-- 🏠 Atualmente moro em Paulista/PE.
 - 👩🏽 Tenho 21 anos.
 
 ##
