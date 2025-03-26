@@ -1,9 +1,4 @@
 ## 👋 Olá eu sou Duda Oliveira, dev backend!
-
-<img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/108241366/196195211-6248b2ff-312f-47b5-914b-699ae4e86e87.png">
-
- 
-##
   
 
 <div align="center">
